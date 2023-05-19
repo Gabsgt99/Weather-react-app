@@ -1,4 +1,4 @@
-!!!!
+# 🌧️🌞My Weather App🌞🌧️!!!!!
 
 This is an application to know the weather in different cities, throwing data on cards of the current temperature, minimum and maximum temperature, feels like temperature, atmospheric pressure, wind speed and humidity. They can be displayed in two units of measurement.
 
@@ -7,9 +7,6 @@ This is an application to know the weather in different cities, throwing data on
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 hello
-
-    Hola
-
 
 ## Available Scripts
 
