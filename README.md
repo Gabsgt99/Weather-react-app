@@ -7,6 +7,9 @@ This is an application to know the weather in different cities, throwing data on
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
+    Hola
+
+
 ## Available Scripts
 
 In the project directory, you can run:
